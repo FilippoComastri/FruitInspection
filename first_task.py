@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 import utils
 import time 
 
-nir_img_filenames, rgb_img_filenames = utils.get_img_filenames("first_task")
+nir_img_filenames, rgb_img_filenames = utils.get_img_filenames("first_task",start_dir='.')
 
 def task1(nir_img_path, rgb_img_path):
     #t1 = time.time_ns()

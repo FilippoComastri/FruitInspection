@@ -1,2 +1,0 @@
-- scrivere perche quando considero il cc piu grande, considero la grandezza della bbox e non
-  la statistica sull'area già fornita.
